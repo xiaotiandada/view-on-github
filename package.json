@@ -3,6 +3,11 @@
   "displayName": "View on Github",
   "description": "",
   "version": "0.0.1",
+  "publisher": "xiaotiandada",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaotiandada/view-on-github.git"
+  },
   "engines": {
     "vscode": "^1.61.0"
   },
